@@ -1,8 +1,16 @@
-.header {
+.header ,.hero {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+ * {
+    font-family: Arial, Helvetica, sans-serif;
+ }
+.hero {
+    padding: 120px 200px;
 }
 
 .logo {
@@ -22,4 +30,35 @@ a {
     text-decoration: none;
     color: #E5E7EB;
     padding: 8px;
+ }
+
+ .placeholder {
+    padding: 100px;
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #778899;
+ }
+
+ .container {
+    width: 400px;
+    color: #F9FAF8;
+ }
+
+ .title {
+    font-size: 48px;
+    font-weight: bold;
+ }
+ .subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+ }
+
+ button {
+    border: none;
+    padding: 8px 24px;
+    margin-top: 8px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    font-weight: bold;
+    border-radius: 8px;
  }
