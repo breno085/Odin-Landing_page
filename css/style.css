@@ -36,7 +36,7 @@ a {
     padding: 100px;
     font-size: 18px;
     color: #E5E7EB;
-    background-color: #778899;
+    background-color: #71797E;
  }
 
  .container {
@@ -55,7 +55,7 @@ a {
 
  button {
     border: none;
-    padding: 8px 24px;
+    padding: 8px 26px;
     margin-top: 8px;
     color: #E5E7EB;
     background-color: #3882F6;
