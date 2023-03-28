@@ -1,3 +1,3 @@
 # Odin-Landing_page
 
-Hello!
+Criação da minha primeira landing page usando html e CSS
