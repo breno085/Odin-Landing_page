@@ -133,6 +133,7 @@ width: 850px;
     background-color: #3882F6;
     border-radius: 12px;
     color: white;
+    gap: 24px;
  }
 
  .call-b {
@@ -144,4 +145,14 @@ width: 850px;
  .call-title {
     font-size: 28px;
     font-weight: bold;
+ }
+
+ .footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+    font-size: 18px;
  }
