@@ -2,4 +2,4 @@
 
 Criação da minha primeira landing page usando html e CSS
 
-Live: https://breno085.github.io/Odin-Landing_page/
+[Live](https://breno085.github.io/Odin-Landing_page/)
