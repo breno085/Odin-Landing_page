@@ -1,4 +1,4 @@
-# Odin-Landing_page
+# Odin-landing-page
 
 Criação da minha primeira landing page usando html e CSS
 
